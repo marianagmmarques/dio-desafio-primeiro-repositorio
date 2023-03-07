@@ -1,0 +1,1 @@
+Git bash pe um terminal extendido para otimizar o uso do GIT.
